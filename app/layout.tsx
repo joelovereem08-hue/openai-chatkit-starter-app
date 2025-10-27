@@ -5,7 +5,7 @@ const options: ChatKitOptions = {
     // TODO: configure your ChatKit API integration (URL, auth, uploads).
   },
   theme: {
-    colorScheme: 'dark',
+    colorScheme: 'light',
     radius: 'pill',
     density: 'normal',
     typography: {
